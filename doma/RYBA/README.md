@@ -1,0 +1,97 @@
+# 🐟 Ryba - PORUCHA: **Rybí rap vs. ptačí křikot**
+
+---
+
+**Komunikační patolog**
+
+Tato karta diagnostikuje a řeší problém týmů, kde se komunikace stala povrchním šumem ("ptačí křikot") místo autentického, systémového projevu, který skutečně mění prostředí ("rybí rap").
+
+---
+
+[Pohádka o rybě](./data/pohadka.md) | 
+[Diagnostický mód](./data/ryba-diagnostika.html) | 
+[Kreativní mód](./data/generator.html) | 
+[Generativní mód](./data/generativni.html) | 
+[Workshop](./data/WORKSHOP_90_MINUT.md) |
+[Zpětná vazba](./data/zpetna_vazba.html) | 
+[Licence](./data/licence_ryba.txt) |
+
+---
+
+## PRAVIDLA SYSTÉMU
+
+1. **Žádné správné** odpovědi – pouze mapování
+2. Úhly **nejsou charakterové** rysy – jsou to momentální stavy
+3. Graf **není hodnocení** – je to mapa aktuálního myšlení
+4. Pohádka není návod – je to zrcadlo
+5. Protikladný úhel není lepší – je jen jiný
+6. **Cílem není shoda – cílem je vidět více možností**
+
+---
+
+## Pohádka
+
+Přečtěte si pohádku **[O rybě která rapovala](./data/pohadka.md)**.
+
+---
+
+## 3 diagnostické otázky (pro tento konkrétní problém)
+
+1. **Q1 (Interpretace):** Ryba neřve, ale „vibruje“. Její rap není pro show, ale pro přesnost. Proč lidé/týmy dávají přednost „ptačímu křikotu“ – hlasitému, ale prázdnému projevu – před „rybím rapem“, který je tichý, ale transformuje prostředí?
+2. **Q2 (Identifikace):** Kde ve vašem týmu pozorujete „ptačí zpěv“ – tedy hlasitou, repetitivní, ale málo obsažnou komunikaci (schůze, prezentace, reporty), která jen zaplňuje prostor místo aby tvořila smysl? A kde naopak probíhá „rybí rap“ – tichá práce, která skutečně posouvá věci vpřed, ale zůstává neviděná pod hladinou?
+3. **Q3 (Transformace):** Co by se muselo stát, aby váš tým začal „vnímat, ne jen poslouchat“? Jak bychom mohli kultivovat prostředí, kde „ticho konečně dostane slovo nad hladinu“ a kde budeme oceňovat přesnost a vliv na systém více než hlasitost projevu?
+
+---
+
+## Ukázka 2 úhlů z 12
+
+### 1. 🌊 ÚHEL VIBRAČNÍ KOMUNIKACE
+**Problém:** Komunikace je vnímána jen na úrovni slov, nikoli jako tělesná, vibrační interakce, která mění samotné prostředí.
+- **Příklad v týmu:** Když tým komunikuje pouze na úrovni slov a slidů v meeting rooms, ale ignoruje „vibrace“ – neverbální komunikaci, napětí v místnosti, energii mezi lidmi. Řeší se, co je „řečeno“, ne co je „cítěno“.
+- **Řešení:** Zavést „čtení vibrací“: Před zahájením řešení agendy věnovat 2 minuty popisu „jak se tu dnes cítí vzduch/voda“. Co je nevyřčené, ale přítomné? Trénovat vnímavost k prostředí.
+
+### 2. 🐦 ÚHEL PTAČÍ KŘIKOT
+**Problém:** Komunikace je hlasitá, repetitivní, ale prázdná – plná frází bez obsahu.
+- **Příklad v týmu:** Když se komunikace redukuje na opakování frází ze strategických dokumentů, bezduché reportingy a meetingy, kde se „protepluje vzduch“. Je to hlasité, ale prázdné.
+- **Řešení:** Provést „audit ptačího křiku“: Identifikovat 3 nejčastější, nejprázdnější fráze nebo rituály v naší komunikaci. Domluvit se na jejich eliminaci nebo radikální transformaci.
+
+---
+
+## Workshopová struktura (náhled)
+
+**Workshop: „Od ptačího křiku k rybímu rapu“** (90 minut)
+
+**Část 1: Diagnóza** (30 min)
+- Přečtení pohádky
+- Individuální psaní: Co je u nás „ptačí křikot“? Kde se skrývá „rybí rap“?
+- Sdílení a tvorba „Mapy komunikace“
+
+**Část 2: Experiment** (40 min)
+- Cvičení „Rybí pauzy“ – minuta ticha před rozhodnutím
+- Cvičení „Váha slova“ – omezení počtu slov, trénink přesnosti
+- Reflexe a sdílení
+
+**Část 3: Akce** (20 min)
+- Tvorba „Hitparády pod hladinou“ – systém oceňování neviditelných úspěchů
+- Formulace „Rybího manifestu“ – 3 pravidla pro autentickou komunikaci
+
+---
+
+## Chcete celou kartu?
+
+**Plná verze obsahuje:**
+- ✅ **Všech 12 úhlů** (včetně: Systemický dopad, Různorodé žánry, Mlčení jako mocná dovednost, Komunikace s prostředím, Ticho které nese obsah, Beaty které tvoří prostředí, Vnímání místo poslouchání, Autentické vyjádření, Neviditelné vítězství)
+- ✅ **Kompletní workshop** s podrobným scénářem
+- ✅ **Šablony:** Mapa komunikace, Hitparáda pod hladinou, Audit ptačího křiku
+- ✅ **Diagnostické nástroje** pro tým
+- ✅ **Návod** na implementaci a kombinaci s dalšími kartami
+
+---
+
+## Katalog poruch
+
+**Plameňák** | **Motýl** | **Páv** | **Vrabec** | **Moucha** | **Osel** | **Žížala** | **Lev**
+
+---
+
+Kontakt: **[chcesmys@gmail.com](mailto:chcesmys@gmail.com)**
