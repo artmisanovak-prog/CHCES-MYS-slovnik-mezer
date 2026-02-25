@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pohádka - Chceš myš?</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            background: #f5f5f5;
+            color: #222;
+            line-height: 1.8;
+            overflow-x: hidden;
+        }
+        
+        /* Hlavní kontejner */
+        .pohadka-container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 60px 40px;
+            min-height: 100vh;
+        }
+        
+        /* Horní navigace */
+        .nav-back {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+        }
+        
+        .nav-back a {
+            color: #666;
+            text-decoration: none;
+            font-size: 14px;
+            transition: color 0.3s;
+        }
+        
+        .nav-back a:hover {
+            color: #000;
+        }
+        
+        /* Titulek */
+        .pohadka-title {
+            text-align: center;
+            margin-bottom: 60px;
+            opacity: 0;
+            animation: fadeIn 1s ease-in forwards;
+        }
+        
+        .pohadka-title h1 {
+            font-size: 2.5em;
+            font-weight: normal;
+            margin-bottom: 10px;
+            letter-spacing: 2px;
+        }
+        
+        .pohadka-title .subtitle {
+            font-size: 1.1em;
+            color: #666;
+            font-style: italic;
+        }
+        
+        /* Tělo pohádky */
+        .pohadka-body {
+            font-size: 1.1em;
+        }
+        
+        .pohadka-body p {
+            margin-bottom: 1.5em;
+            opacity: 0;
+            animation: fadeInUp 0.8s ease-in forwards;
+        }
+        
+        /* Postupné objevování odstavců */
+        .pohadka-body p:nth-child(1) { animation-delay: 0.2s; }
+        .pohadka-body p:nth-child(2) { animation-delay: 0.3s; }
+        .pohadka-body p:nth-child(3) { animation-delay: 0.4s; }
+        .pohadka-body p:nth-child(4) { animation-delay: 0.5s; }
+        .pohadka-body p:nth-child(5) { animation-delay: 0.6s; }
+        .pohadka-body p:nth-child(n+6) { animation-delay: 0.7s; }
+        
+        /* Speciální odstavce */
+        .pohadka-body .emphasis {
+            font-style: italic;
+            color: #444;
+            text-align: center;
+            margin: 2em 0;
+        }
+        
+        .pohadka-body .dialogue {
+            padding-left: 40px;
+            border-left: 2px solid #ddd;
+            margin: 1.5em 0;
+        }
+        
+        /* Oddělovač */
+        .separator {
+            text-align: center;
+            margin: 3em 0;
+            color: #ccc;
+            font-size: 1.5em;
+        }
+        
+        /* Konec pohádky */
+        .pohadka-end {
+            text-align: center;
+            margin-top: 4em;
+            padding-top: 2em;
+            border-top: 1px solid #ddd;
+            color: #999;
+            font-size: 0.9em;
+        }
+        
+        /* Animace */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        /* Responzivita */
+        @media (max-width: 768px) {
+            .pohadka-container {
+                padding: 40px 20px;
+            }
+            
+            .pohadka-title h1 {
+                font-size: 1.8em;
+            }
+            
+            .pohadka-body {
+                font-size: 1em;
+            }
+        }
+        
+        /* Print styly */
+        @media print {
+            .nav-back {
+                display: none;
+            }
+            
+            body {
+                background: white;
+            }
+            
+            .pohadka-body p {
+                opacity: 1 !important;
+                animation: none !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigace zpět -->
+    <div class="nav-back">
+        <a href="../">← Zpět na kartu</a>
+    </div>
+    
+    <!-- Kontejner pohádky -->
+    <div class="pohadka-container">
+        
+        <!-- Titulek pohádky -->
+        <div class="pohadka-title">
+            <h1>🐏 BERAN</h1>
+            <p class="subtitle">o stádu, které běželo, až zapomnělo proč</p>
+        </div>
+        
+        <!-- Tělo pohádky -->
+        <div class="pohadka-body">
+            
+            <p>Bylo jednou jedno stádo beranů.</p>
+            
+            <p>Běželo. Už dlouho. Možná od počátku světa. Kopyta duněla, prach stoupal, hory se třásly. Byli nejmocnější silou světa. Nikdo je nezastavil. Nikdo se jim nepostavil. Byli nezastavitelní.</p>
+            
+            <p>Ale nikdo neřekl, že je to síla bez směru.</p>
+            
+            <div class="separator">—</div>
+            
+            <p>Nikdo nevěděl, proč vlastně běží. Kam míří. Jestli tam vůbec chtějí být. Prostě běželi. Protože běželi včera. Protože všichni běží. Protože zastavit by byla slabost.</p>
+            
+            <p>A v tom stádu byl jeden beran, co měl v oku jiskru. Ne plamen, ne oheň – jen malou, podivnou jiskru, která ho svrběla uvnitř hlavy.</p>
+            
+            <p class="dialogue">„Co když…" pomyslel si.</p>
+            
+            <p class="dialogue">„Co když změna směru není slabost? Co když je to odvaha?"</p>
+            
+            <p>Ale než to stačil říct nahlas, stádo ho vtáhlo zpět. Ne ze zloby, ne z nenávisti. Z hybnosti. Z logiky stáda. Kopyta duněla, prach stoupal, a jeho jiskra zhasla pod tisíci kopyty, která běžela dál.</p>
+            
+            <div class="separator">—</div>
+            
+            <p>A stádo běželo. A každý beran si v duchu říkal: „Možná bych chtěl jinam." Ale nahlas to neřekl nikdo. Protože každý si myslel, že je sám, kdo pochybuje.</p>
+            
+            <p>A běželi dál. Do krajiny, kde se cesty neklikatí, ale lámou. Kde každá zatáčka je pád. Kde jediný způsob, jak změnit směr, je narazit hlavou do zdi. A tak naráželi. A běželi dál. Protože náraz není signál k zastavení, náraz je důkaz, že se nesnažili dost.</p>
+            
+            <p>A ten jeden beran s uhašenou jiskrou? Běžel s nimi. Už si ani nepamatoval, že chtěl jinam. Možná zapomněli, jak se stojí. Možná zapomněli, proč začali. Možná běželi už od počátku světa.</p>
+            
+            <div class="separator">—</div>
+            
+            <p class="emphasis">A v dálce, za obzorem, někde tam, kam žádné stádo nikdy nedošlo, ležela země, kde se berani uměli zastavit a zeptat se: „Kam vlastně běžíme?"</p>
+            
+            <p class="emphasis">Ale sem její ozvěna nikdy nedoletěla. Jen prach a dunění a tisíce kopyta, která běží dál.</p>
+            
+        </div>
+        
+        <!-- Konec -->
+        <div class="pohadka-end">
+            <p>konec pohádky</p>
+            <p style="margin-top: 1em;">© Michaela Nováková | Chceš myš?</p>
+        </div>
+        
+    </div>
+    
+</body>
+</html>
