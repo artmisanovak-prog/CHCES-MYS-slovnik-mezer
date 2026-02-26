@@ -12,7 +12,7 @@ Tato karta diagnostikuje a řeší problém týmů, kde se komunikace stala povr
 [Diagnostický mód](./data/diagnostika-ryba.html) | 
 [Kreativní mód](./data/generator.html) | 
 [Generativní mód](./data/generativni.html) | 
-[Workshop](./data/WORKSHOP_90_MINUT.md) |
+[Workshop](./data/workshop_90minut.html) |
 [Zpětná vazba](./data/zpetna_vazba.html) | 
 [Licence](./data/licence_ryba.txt) |
 
