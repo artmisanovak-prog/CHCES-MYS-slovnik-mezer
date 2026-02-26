@@ -59,7 +59,7 @@ Přečtěte si pohádku **[O rybě která rapovala](./data/pohadka.md)**.
 
 ## Workshopová struktura (náhled)
 
-**Workshop: „Od ptačího křiku k rybímu rapu“** (90 minut)
+###;**Workshop: „Od ptačího křiku k rybímu rapu“** (90 minut)
 
 **Část 1: Diagnóza** (30 min)
 - Přečtení pohádky
