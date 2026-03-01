@@ -29,9 +29,21 @@ Tato karta diagnostikuje a řeší problém týmů, kde se komunikace stala povr
 
 ---
 
+-[diagnostický mód](doma/RYBA/diagnostika-ryba.html)
+
+-[generativní mód](doma/RYBA/generativni.html)
+
+-[kreativní mód](doma/RYBA/generator.html)
+
+-[workshop](doma/RYBA/workshop_90_minut.html)
+
+-[zpětná vazba](doma/RYBA/zpetna_vazba.html)
+
+---
+
 ## Pohádka
 
-Přečtěte si pohádku **[O rybě která rapovala](./data/pohadka.md)**.
+Přečtěte si pohádku **[O rybě která rapovala](./data/RYBA/pohadka.md)**.
 
 ---
 
