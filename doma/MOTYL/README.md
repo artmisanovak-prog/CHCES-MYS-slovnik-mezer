@@ -1,1 +1,5 @@
-[motýl-diagnosticky mod](doma/MOTYL/motyl-diagnostika)
+- [**motýl**-diagnosticky mod](doma/MOTYL/motyl-diagnostika.html)
+
+---
+
+- [**motýl**-workshop 90 minut](doma/MOTYL/workshop_90_min.html)
