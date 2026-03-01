@@ -2,4 +2,4 @@
 
 ---
 
-- [**motýl**-workshop 90 minut](doma/MOTYL/workshop_90_min.html)
+- [**motýl**-workshop 90 minut](doma/MOTYL/workshop_90_minut.html)
