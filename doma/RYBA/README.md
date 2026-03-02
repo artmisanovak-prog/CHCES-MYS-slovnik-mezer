@@ -102,15 +102,18 @@ Přečtěte si pohádku **[O rybě která rapovala](./data/RYBA/pohadka.md)**.
 
 ## Katalog poruch
 
-[**Beran**](doma/karty_ukazky/Beran/) |
-[**Drak**](doma/karty_ukazkyDrak/) |
-[**Hvezdice**](doma/karty_ukazky/Hvezdice/) |
-[**Tygr**](doma/karty_ukazky/Tygr/) |
-[**Motyl**](doma/karty_ukazky/Motyl/) |
-[**Had**](doma/karty_ukazky/Had/) |
-[**Gepard**](doma/karty_ukazky/Gepard/) |
-[**Želva**](doma/karty_ukazky/Zelva/) |
-[**Žížala**](doma/karty_ukazky/Zizala/) |
+| [**Beran**](doma/karty_ukazky/Beran/) |
+| [**Drak**](doma/karty_ukazkyDrak/) |
+| [**Hvezdice**](doma/karty_ukazky/Hvezdice/) |
+| [**Tygr**](doma/karty_ukazky/Tygr/) |
+| [**Motyl**](doma/karty_ukazky/Motyl/) |
+| [**Had**](doma/karty_ukazky/Had/) |
+| [**Gepard**](doma/karty_ukazky/Gepard/) |
+| [**Želva**](doma/karty_ukazky/Zelva/) |
+| [**Žížala**](doma/karty_ukazky/Zizala/) |
+
+---
+
 [**Pavouk**](doma/karty_ukazky/Pavouk/) |
 [**Liška**](doma/karty_ukazky/Liska/) |
 [**Mořský koník**](doma/karty_ukazky/Morsky_konik/) |
