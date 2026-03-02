@@ -112,8 +112,6 @@ Přečtěte si pohádku **[O rybě která rapovala](./data/RYBA/pohadka.md)**.
 | [**Želva**](doma/karty_ukazky/Zelva/) |
 | [**Žížala**](doma/karty_ukazky/Zizala/) |
 
----
-
 [**Pavouk**](doma/karty_ukazky/Pavouk/) |
 [**Liška**](doma/karty_ukazky/Liska/) |
 [**Mořský koník**](doma/karty_ukazky/Morsky_konik/) |
