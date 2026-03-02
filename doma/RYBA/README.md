@@ -102,7 +102,24 @@ Přečtěte si pohádku **[O rybě která rapovala](./data/RYBA/pohadka.md)**.
 
 ## Katalog poruch
 
-**Plameňák** | **Motýl** | **Páv** | **Vrabec** | **Moucha** | **Osel** | **Žížala** | **Lev**
+[**Beran**](doma/karty_ukazky/Beran/) |
+[**Drak**](doma/karty_ukazkyDrak/) |
+[**Hvezdice**](doma/karty_ukazky/Hvezdice/) |
+[**Tygr**](doma/karty_ukazky/Tygr/) |
+[**Motyl**](doma/karty_ukazky/Motyl/) |
+[**Had**](doma/karty_ukazky/Had/) |
+[**Gepard**](doma/karty_ukazky/Gepard/) |
+[**Želva**](doma/karty_ukazky/Zelva/) |
+[**Žížala**](doma/karty_ukazky/Zizala/) |
+[**Pavouk**](doma/karty_ukazky/Pavouk/) |
+[**Liška**](doma/karty_ukazky/Liska/) |
+[**Mořský koník**](doma/karty_ukazky/Morsky_konik/) |
+[**Netopýr**](doma/karty_ukazky/Netopýr/) |
+[**Lemur**](doma/karty_ukazky/Lemur/) |
+[**Lev**](doma/karty_ukazky/Lev/) |
+[**Čáp**](doma/karty_ukazky/Cap/) |
+[**Hyeny**](doma/karty_ukazky/Hyeny/) |
+[**Klíště**](doma/karty_ukazky/Kliste_Lan/) |
 
 ---
 
