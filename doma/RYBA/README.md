@@ -12,7 +12,7 @@ Tato karta diagnostikuje a řeší problém týmů, kde se komunikace stala povr
 [Diagnostický mód](./data/RYBA/diagnostika-ryba.html) | 
 [Kreativní mód](./data/RYBA/generator.html) | 
 [Generativní mód](./data/RYBA/generativni.html) | 
-[Workshop](./data/RYBA/workshop_90minut.html) |
+[Workshop](./data/RYBA/workshop_90_minut.html) |
 [Zpětná vazba](./data/RYBA/zpetna_vazba.html/) | 
 [Licence](./data/RYBA/licence_ryba.txt) |
 
@@ -29,21 +29,21 @@ Tato karta diagnostikuje a řeší problém týmů, kde se komunikace stala povr
 
 ---
 
--[diagnostický mód](doma/RYBA/diagnostika-ryba.html)
+- [diagnostický mód](doma/RYBA/diagnostika-ryba.html)
 
--[generativní mód](doma/RYBA/generativni.html)
+- [generativní mód](doma/RYBA/generativni.html)
 
--[kreativní mód](doma/RYBA/generator.html)
+- [kreativní mód](doma/RYBA/generator.html)
 
--[workshop](doma/RYBA/workshop_90_minut.html)
+- [workshop](doma/RYBA/workshop_90_minut.html)
 
--[zpětná vazba](doma/RYBA/zpetna_vazba.html)
+- [zpětná vazba](data/RYBA/zpetna_vazba.html)
 
 ---
 
 ## Pohádka
 
-Přečtěte si pohádku **[O rybě která rapovala](./data/RYBA/pohadka.md)**.
+Přečtěte si pohádku [**O rybě která rapovala**](/data/RYBA/pohadka.md)
 
 ---
 
@@ -102,12 +102,12 @@ Přečtěte si pohádku **[O rybě která rapovala](./data/RYBA/pohadka.md)**.
 
 ## Katalog poruch
 
-| [**Beran**](doma/karty_ukazky/Beran/) |
-| [**Drak**](doma/karty_ukazkyDrak/) |
+| [**Beran**](data/karty_ukazky/Beran/) |
+| [**Drak**](data/karty_ukazkyDrak/) |
 | [**Hvezdice**](doma/karty_ukazky/Hvezdice/) |
-| [**Tygr**](doma/karty_ukazky/Tygr/) |
-| [**Motyl**](doma/karty_ukazky/Motyl/) |
-| [**Had**](doma/karty_ukazky/Had/) |
+| [**Tygr**](data/karty_ukazky/Tygr/) |
+| [**Motyl**](data/karty_ukazky/Motyl/) |
+| [**Had**](data/karty_ukazky/Had/) |
 | [**Gepard**](doma/karty_ukazky/Gepard/) |
 | [**Želva**](doma/karty_ukazky/Zelva/) |
 | [**Žížala**](doma/karty_ukazky/Zizala/) |
