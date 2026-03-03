@@ -1,4 +1,4 @@
-- [**motýl**-diagnosticky mod](/motyl-diagnostika.html)
+- [**motýl**-diagnosticky mod](motyl-diagnostika.html)
 
 ---
 
